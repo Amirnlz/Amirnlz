@@ -35,8 +35,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) -->
 
-### Github stats
-
+<details>
+  
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirnlz&show_icons=true&theme=tokyonight&border_radius=15&border_color=808080"/>
 </a>
@@ -44,5 +46,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirnlz&layout=compact&theme=tokyonight&border_radius=15&border_color=808080" />
 </a>
 
-
-
+</details>
