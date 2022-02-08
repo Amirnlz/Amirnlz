@@ -4,8 +4,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on [Crypto-coin](https://github.com/Amirnlz/Crypto-coin)  
-- 🌱 I’m currently learning anything aboat Flutter
+- 🔭 I’m currently working on my Github projects ([Task-management](https://github.com/Amirnlz/task_management))
+- 🌱 I’m currently learning anything about Flutter
 - 👯 I’m looking to collaborate on Open source Flutter porjects
 - 📫 How to reach me: **[Telegram](https://t.me/amirnlz)**
 <!-- - Ask me about ... -->
