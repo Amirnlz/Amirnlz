@@ -4,7 +4,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my Github projects ([Task-management](https://github.com/Amirnlz/task_management))
+- 🔭 I’m currently working on Github projects
 - 🌱 I’m currently learning anything about Flutter
 - 👯 I’m looking to collaborate on Open source Flutter porjects
 - 📫 How to reach me: **[Telegram](https://t.me/amirnlz)**
