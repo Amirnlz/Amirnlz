@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at [Narvan ventures](https://narvanstartupstudio.com/)
 - 🌱 I’m currently learning anything about Flutter
 - 👯 I’m looking to collaborate on Open source Flutter porjects
-- 📫 How to reach me: **[Telegram](https://t.me/amirnlz)**
+- 📫 Reach me by sending email
 
 
 #### Get in touch
