@@ -3,10 +3,11 @@
 **I'm Flutter Developer from Iran.**
 
 
-- 🔭 I’m currently working at [Narvan ventures](https://narvanventures.com/)
-- 🌱 I’m currently learning anything about Flutter
-- 👯 I’m looking to collaborate on Open source Flutter porjects
-- 📫 Reach me by sending email
+- 🔭 I’m realy interested about Flutter and dart
+- 🌱 I’m currently learning about Mobile development
+- 💬 Ask me anything about flutter and dart
+- 👯 I’m looking to collaborate on Open source porjects
+- 📫 Reach me by sending [email](mailto:amiirnlz79@gmail.com)
 
 
 #### Get in touch
