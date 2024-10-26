@@ -1,8 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-
 **I'm Flutter Developer**
-
 
 - 🔭 I’m realy interested about Flutter and dart
 - 🌱 I’m currently learning about Mobile development
@@ -11,6 +9,7 @@
 - 📫 Reach me by sending [email](mailto:amiirnlz79@gmail.com)
 
 **Get in touch**
+
 <div align="left">
 <div></div>
 
@@ -22,15 +21,10 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
-
 </div>
-
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=amirnlz&show_icons=true&theme=tokyonight&border_color=808080"/>
 </a>
-
-
 
 <!-- ![](https://komarev.com/ghpvc/?username=amirnlz&color=grey) -->
