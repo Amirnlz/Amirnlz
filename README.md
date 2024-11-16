@@ -1,29 +1,19 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+# Amirnlz | Captain of Android Development 🚀
 
-**I'm Flutter Developer**
+Welcome to my GitHub! 🛠️ Here, you'll find code that's 90% trial-and-error and 10% wondering why it worked in the first place. When I’m not debugging, I’m probably adding comments like "TODO: Fix this someday" to my code.
 
-- 🔭 I’m realy interested about Learning new things
-- 🌱 I’m currently learning about Mobile development
-- 👯 I’m looking to collaborate on Open source porjects
-- 📫 Reach me by sending [email](mailto:amiirnlz79@gmail.com)
+---
 
-**Get in touch**
+## Fun Facts About Me:
 
-<div align="left">
-<div></div>
+- Known as **Captain** around here. 🕶️  
+- Exploring the exciting world of **Kotlin** and **Jetpack Compose** to create sleek Android apps.  
+- Firm believer in clean code... unless deadlines say otherwise.  
 
-<a href="https://www.linkedin.com/in/Amirnlz">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+---
 
-<a href="https://stackoverflow.com/users/12277290/amir">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
+> "Android development is just like assembling IKEA furniture—except the instructions are missing, and you might accidentally invent a new widget."  
 
-</div>
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=amirnlz&show_icons=true&theme=tokyonight&border_color=808080"/>
-</a>
-
-<!-- ![](https://komarev.com/ghpvc/?username=amirnlz&color=grey) -->
+Feel free to look around, and if you find something cool, don’t forget to ⭐ it!  
