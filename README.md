@@ -2,9 +2,8 @@
 
 **I'm Flutter Developer**
 
-- 🔭 I’m realy interested about Flutter and dart
+- 🔭 I’m realy interested about Learning new things
 - 🌱 I’m currently learning about Mobile development
-- 💬 Ask me anything about flutter and dart
 - 👯 I’m looking to collaborate on Open source porjects
 - 📫 Reach me by sending [email](mailto:amiirnlz79@gmail.com)
 
