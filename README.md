@@ -1,4 +1,4 @@
-# Amirnlz | Captain of Android Development 🚀
+# Amirnlz 🚀
 
 Welcome to my GitHub! 🛠️ Here, you'll find code that's 90% trial-and-error and 10% wondering why it worked in the first place. When I’m not debugging, I’m probably adding comments like "TODO: Fix this someday" to my code.
 
